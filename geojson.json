@@ -1,0 +1,36 @@
+{
+  "release": 1,
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "arte",
+        "description": "Teste teste teste",
+        "caption": "Teste1",
+        "image": false,
+        "height": "275",
+        "width": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.50124, -9.41510]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "arte",
+        "description": "Teste teste teste",
+        "caption": "Teste2",
+        "image": false,
+        "height": "275",
+        "width": "193"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.50656, -9.41498]
+      }
+    }
+  ]
+}

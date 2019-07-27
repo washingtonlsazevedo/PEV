@@ -1,0 +1,22 @@
+[
+	{
+		"msgid": 0,
+		"message": "Seja bem vindo ao SmartChico!",
+		"position": false
+	},
+	{
+		"msgid": 1,
+		"message": "Conheça a Associação de Artes Cênicas de Sobradinho (AACS)!",
+		"position": [-40.80466, -9.47436]
+	},
+     {
+     "msgid": 2,
+     "message": "Há arte em todos os lugares, até mesmos nos cantos mais escondidos podemos encontrar a expressão popular. Veja o que encontramos sob a Ponte Presidente Dutra.",
+     "position": [-40.50475, -9.4073]
+     },
+	{
+		"msgid": 4,
+		"message": "Arte ou protesto? Veja este grafite na Rua Oscar Ribeiro em Juazeiro!",
+		"position": [-40.50124, -9.41510]
+	}
+]
