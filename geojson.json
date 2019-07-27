@@ -1,36 +1,351 @@
-{
-  "release": 1,
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "arte",
-        "description": "Teste teste teste",
-        "caption": "Teste1",
-        "image": false,
-        "height": "275",
-        "width": "193"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-40.50124, -9.41510]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "category": "cultura",
-        "description": "Teste teste teste",
-        "caption": "Teste2",
-        "image": false,
-        "height": "275",
-        "width": "193"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-40.50656, -9.41498]
-      }
-    }
+{  
+  "release":1,
+  "type":"FeatureCollection",
+  "features":[  
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola professor Humberto soares",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.384206, -40.536680]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Joaquim André",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.369114, -40.493521]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Centro de estudos supletivos João barracão",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.385131, -40.508635]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual padre Luís Cassiano",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.369029, -40.482088]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual marechal Antônio Alves filho",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.388601, -40.520402]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual jornalista João Ferreira gomes",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.399173, -40.545471]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola professora Rosa Santana de carvalho",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.380652, -40.534901]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Otacílio Nunes de Sousa",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.386603, -40.493810]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola Dom Malam",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.402367, -40.500832]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola Dom Avelar",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.386552, -40.500800]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola João Batista dos Santos",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.383813, -40.545538]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual professora Adelina Almeida",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.383626, -40.489448]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Manoel Marinho",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.324152, -40.617117]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Gercino coelho/ EREM Clementino Coelho",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.386258, -40.515029]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Colégio estadual Doutor pacífico da luz",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.389046, -40.488157]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Colégio da polícia militar",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.390873, -40.479644]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Eduardo coelho",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.396527, -40.489806]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Jesuíno D’vila",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.357466, -40.534822]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Paiva neto",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.378319, -40.528511]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola Eneida coelho paixão",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.356512, -40.542470]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola estadual Eduardo campos",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9.396382, -40.490253]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola Rural de Mossaroca",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9,842094, -40.253764]
+        }
+     },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasNaoAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola Rural de Mossaroca",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-9,842094, -40.253764]
+        }
+     }
   ]
 }
