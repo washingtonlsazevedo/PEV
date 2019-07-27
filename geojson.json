@@ -20,7 +20,7 @@
     {
       "type": "Feature",
       "properties": {
-        "category": "arte",
+        "category": "cultura",
         "description": "Teste teste teste",
         "caption": "Teste2",
         "image": false,
