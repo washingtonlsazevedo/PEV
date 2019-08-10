@@ -3,904 +3,349 @@
   "type": "FeatureCollection",
   "features": [
     {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Professor Humberto Soares",
-         "image":false,
-         "height":"275",
-         "width":"193"
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola professor Humberto soares",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.536680, -9.384206]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.53668, -9.384206]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Joaquim André",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Joaquim André",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.493521, -9.369114]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.493521, -9.369114]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Centro de estudos supletivos João barracão",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Centro de estudos supletivos João barracão",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.508635, -9.385131]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.508635, -9.385131]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual padre Luís Cassiano",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual padre Luís Cassiano",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.482088, -9.369029]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.482088, -9.369029]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual marechal Antônio Alves filho",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual marechal Antônio Alves filho",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.520402, -9.388601]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.520402, -9.388601]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual jornalista João Ferreira gomes",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual jornalista João Ferreira gomes",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.545471, -9.399173]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.545471, -9.399173]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola professora Rosa Santana de carvalho",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola professora Rosa Santana de carvalho",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.534901, -9.380652]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.534901, -9.380652]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Otacílio Nunes de Sousa",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Otacílio Nunes de Sousa",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.493810, -9.386603]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.49381, -9.386603]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Dom Malam",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola Dom Malam",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.500832, -9.402367]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.500832, -9.402367]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Dom Avelar",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola Dom Avelar",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.500800, -9.386552]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.5008, -9.386552]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola João Batista dos Santos",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola João Batista dos Santos",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.545538, -9.383813]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.545538, -9.383813]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual professora Adelina Almeida",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual professora Adelina Almeida",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.489448, -9.383626]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.489448, -9.383626]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Manoel Marinho",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Manoel Marinho",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.617117, -9.324152]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.617117, -9.324152]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Gercino coelho/ EREM Clementino Coelho",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Gercino coelho/ EREM Clementino Coelho",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.515029, -9.386258]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.515029, -9.386258]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Colégio estadual Doutor pacífico da luz",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Colégio estadual Doutor pacífico da luz",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.488157, -9.389046]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.488157, -9.389046]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Colégio da polícia militar",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Colégio da polícia militar",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.479644, -9.390873]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.479644, -9.390873]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Eduardo coelho",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Eduardo coelho",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.489806, -9.396527]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.489806, -9.396527]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Jesuíno D’vila",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Jesuíno D’vila",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.534822, -9.357466]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.534822, -9.357466]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Paiva neto",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Paiva neto",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.528511, -9.378319]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.528511, -9.378319]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Eneida coelho paixão",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola Eneida coelho paixão",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.542470, -9.356512]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.54247, -9.356512]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Eduardo campos",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola estadual Eduardo campos",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.490253, -9.396382]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.490253, -9.396382]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Rural de Mossaroca",
-         "image":false,
-         "height":"275",
-         "width":"193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "escolasAtendidas",
+        "description": "Teste teste teste",
+        "caption": "Escola Rural de Mossaroca",
+        "image": false,
+        "height": "275",
+        "width": "193"
       },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.253764, -9.842094]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.253764, -9.842094]
       }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Paulo VI",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.499401, -9.419683]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Joca de Souza Oliveira",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.482085, -9.449711]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Nossa Senhora das Grotas",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.505765, -9.416779]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Manoel Nunes Amorim",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.605365, -9.674347]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Gentil Damásio do Nascimento",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.498612, -9.447370]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Heloisa Helena",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.526934, -9.427959]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Professor Jose Pereira da Silva",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.482085, -9.449711]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Medrado Primo",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.533376, -9.430166]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Judite Leal Costa",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.499445, -9.419420]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Ludgero de Souza Costa",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.496705, -9.424796]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"EMEI Maria Hozana Nunes",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.510989, -9.428611]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Municipal Professora Dinorah Albernaz Mello da Silva",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.500013, -9.434113]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Argemiro José da Cruz",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.518594, -9.438861]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola estadual Rui Barbosa",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.513184, -9.413481]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Colégio Modelo Luís Eduardo Magalhães",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.497132, -9.436874]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Centro Territorial de Educação Profissional (CETEP)",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.484729, -9.422299]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Estadual Dona Guiomar Barreto Meira",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.492527, -9.475562]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Colégio Estadual Cecílio Mattos",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.505254, -9.419136]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Colégio Estadual da Polícia Militar",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.488926, -9.418520]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Estadual Hildete Lomanto",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.505430, -9.414047]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Estadual Pedro Raymundo Moreira Rego",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.500719, -9.442950]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Escola Estadual Rotary Clube",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.498032, -9.431171]
-      }
-   },
-   {
-      "type":"Feature",
-      "properties":{
-         "news":"https://escolaverde.org/site/?page_id=27",
-         "category":"escolasAtendidas",
-<<<<<<< HEAD
-         "description":"Teste",
-=======
-         "description":"",
->>>>>>> d6356f983891f83e0c60b03ea25422d87e8208ee
-         "caption":"Colégio Estadual Helena Celestino",
-         "image":false,
-         "height":"275",
-         "width":"193"
-      },
-      "geometry":{
-         "type":"Point",
-         "coordinates":[-40.492604, -9.438953]
-      }
-   }
+    },
+     {  
+        "type":"Feature",
+        "properties":{  
+           "category":"escolasNaoAtendidas",
+           "description":"Teste teste teste",
+           "caption":"Escola Rural de Mossaroca",
+           "image":false,
+           "height":"275",
+           "width":"193"
+        },
+        "geometry":{  
+           "type":"Point",
+           "coordinates":[-40.50656, -9.41498]
+        }
+     }
   ]
 }
