@@ -334,7 +334,8 @@
     },
      {  
         "type":"Feature",
-        "properties":{  
+        "properties":{
+          "news": "https://escolaverde.org/site/?p=64140",  
            "category":"escolasNaoAtendidas",
            "description":"Teste teste teste",
            "caption":"Escola Rural de Mossaroca",
