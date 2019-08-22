@@ -1,13 +1,13 @@
 {
-  "release": 1,
+  "release": 2,
   "type": "FeatureCollection",
   "features": [
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=42973",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Hortas - Ambientalização - Saúde Ambiental - Arborização",
             "caption":"Escola Professor Humberto Soares",
             "image":false,
             "height":"275",
@@ -24,10 +24,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=49652",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Joaquim André",
+            "description":"Plantas Medicinais - Ambientalização - Visitas Técnicas",
+            "caption":"Escola Estadual Joaquim André",
             "image":false,
             "height":"275",
             "width":"193"
@@ -43,10 +43,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=63488",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Centro de estudos supletivos João barracão",
+            "description":"Jardins - Hortas - Saúde Ambeintal",
+            "caption":"Centro de Estudos Supletivos João Barracão",
             "image":false,
             "height":"275",
             "width":"193"
@@ -62,10 +62,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=51492",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual padre Luís Cassiano",
+            "description":"Educação Ambiental",
+            "caption":"Escola Estadual Padre Luís Cassiano",
             "image":false,
             "height":"275",
             "width":"193"
@@ -81,10 +81,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=50374",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual marechal Antônio Alves filho",
+            "description":"Arborização",
+            "caption":"Escola Estadual Marechal Antônio Alves Filho",
             "image":false,
             "height":"275",
             "width":"193"
@@ -100,10 +100,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=55658",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual jornalista João Ferreira gomes",
+            "description":"Plantas Medicinais - Visitas Técnicas",
+            "caption":"Escola Estadual Jornalista João Ferreira Gomes",
             "image":false,
             "height":"275",
             "width":"193"
@@ -119,10 +119,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=48730",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola professora Rosa Santana de carvalho",
+            "description":"Educação Ambiental",
+            "caption":"Escola Professora Rosa Santana de Carvalho",
             "image":false,
             "height":"275",
             "width":"193"
@@ -138,10 +138,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=33264",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Otacílio Nunes de Sousa",
+            "description":"Ambientalização",
+            "caption":"Escola Estadual Otacílio Nunes de Sousa",
             "image":false,
             "height":"275",
             "width":"193"
@@ -157,9 +157,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=64092",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Arborização",
             "caption":"Escola Dom Malam",
             "image":false,
             "height":"275",
@@ -176,9 +176,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=61490",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Construção Sustentáveis - Energias Renováveis - Ambientalização",
             "caption":"Escola Dom Avelar",
             "image":false,
             "height":"275",
@@ -195,9 +195,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=10120",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Saúde Ambiental - Ambientalização - Arborização",
             "caption":"Escola João Batista dos Santos",
             "image":false,
             "height":"275",
@@ -214,10 +214,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=53174",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual professora Adelina Almeida",
+            "description":"Coleta Seletiva - Sensibilização",
+            "caption":"Escola Estadual Professora Adelina Almeida",
             "image":false,
             "height":"275",
             "width":"193"
@@ -233,10 +233,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=48458",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Manoel Marinho",
+            "description":"Sensibilização",
+            "caption":"Escola Estadual Manoel Marinho",
             "image":false,
             "height":"275",
             "width":"193"
@@ -252,10 +252,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=24771",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Gercino coelho/ EREM Clementino Coelho",
+            "description":"Sensibilização - Educação Ambiental - Arborização",
+            "caption":"Escola Estadual Gercino Coelho/ EREM Clementino Coelho",
             "image":false,
             "height":"275",
             "width":"193"
@@ -271,10 +271,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=56157",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Colégio estadual Doutor pacífico da luz",
+            "description":"Sensibilização - Saúde Ambiental - Arborização",
+            "caption":"Colégio Estadual Doutor Pacífico da Luz",
             "image":false,
             "height":"275",
             "width":"193"
@@ -290,10 +290,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=62004",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Colégio da polícia militar",
+            "description":"Energias Renováveis - Sensibilização - Arborização - Coleta Seletiva",
+            "caption":"Colégio da Polícia Militar",
             "image":false,
             "height":"275",
             "width":"193"
@@ -309,10 +309,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=1529",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Eduardo coelho",
+            "description":"Arborização - Saúde e Higiene Ambiental - Visitas Técnicas",
+            "caption":"Escola Estadual Eduardo Coelho",
             "image":false,
             "height":"275",
             "width":"193"
@@ -328,10 +328,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=62410",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Jesuíno D’vila",
+            "description":"Sensibilização",
+            "caption":"Escola Estadual Jesuíno D’vila",
             "image":false,
             "height":"275",
             "width":"193"
@@ -347,10 +347,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=56349",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Paiva neto",
+            "description":"Arborização",
+            "caption":"Escola Estadual Paiva Neto",
             "image":false,
             "height":"275",
             "width":"193"
@@ -366,10 +366,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"http://escolaverde.org/site/?page_id=27",
             "category":"escolasAtendidas",
             "description":"",
-            "caption":"Escola Eneida coelho paixão",
+            "caption":"Escola Eneida Coelho Paixão",
             "image":false,
             "height":"275",
             "width":"193"
@@ -385,10 +385,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=54109",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Eduardo campos",
+            "description":"Arborização",
+            "caption":"Escola Estadual Eduardo Campos",
             "image":false,
             "height":"275",
             "width":"193"
@@ -404,7 +404,7 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"http://escolaverde.org/site/?page_id=27",
             "category":"escolasAtendidas",
             "description":"",
             "caption":"Escola Rural de Mossaroca",
@@ -423,9 +423,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=56427",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Visitas Técnicas - Hotas - Saúde Ambiental",
             "caption":"Escola Municipal Paulo VI",
             "image":false,
             "height":"275",
@@ -442,9 +442,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=54260",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Sensibilização - Ambientalização - Coleta Seletiva",
             "caption":"Escola Municipal Joca de Souza Oliveira",
             "image":false,
             "height":"275",
@@ -461,9 +461,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=62794",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Ambientalização - Sensibilização",
             "caption":"Escola Municipal Nossa Senhora das Grotas",
             "image":false,
             "height":"275",
@@ -480,9 +480,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=53029",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Visitas Técnicas - Ambientalização - Horta",
             "caption":"Escola Municipal Manoel Nunes Amorim",
             "image":false,
             "height":"275",
@@ -499,9 +499,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=59768",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Visitas Técnicas",
             "caption":"Escola Municipal Gentil Damásio do Nascimento",
             "image":false,
             "height":"275",
@@ -518,9 +518,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=56594",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Arborização - Visita Técnica",
             "caption":"Escola Municipal Heloisa Helena",
             "image":false,
             "height":"275",
@@ -537,9 +537,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=54860",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Arborização - Sensibilização",
             "caption":"Escola Municipal Professor Jose Pereira da Silva",
             "image":false,
             "height":"275",
@@ -556,9 +556,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=58777",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Sensibilização - Arborização - Coleta Seletiva - Energias Renováveis",
             "caption":"Escola Municipal Medrado Primo",
             "image":false,
             "height":"275",
@@ -575,9 +575,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=59880",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Ambientalização",
             "caption":"Escola Municipal Judite Leal Costa",
             "image":false,
             "height":"275",
@@ -594,9 +594,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=61508",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Hortas - Coleta Seletiva",
             "caption":"Escola Municipal Ludgero de Souza Costa",
             "image":false,
             "height":"275",
@@ -613,9 +613,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=53899",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Sensibilização - Arborização",
             "caption":"EMEI Maria Hozana Nunes",
             "image":false,
             "height":"275",
@@ -632,9 +632,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=57591",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Sensibilização",
             "caption":"Escola Municipal Professora Dinorah Albernaz Mello da Silva",
             "image":false,
             "height":"275",
@@ -651,9 +651,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=48835",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Visita Técnica - Sensibilização",
             "caption":"Escola Argemiro José da Cruz",
             "image":false,
             "height":"275",
@@ -670,10 +670,10 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=2564",
             "category":"escolasAtendidas",
-            "description":"",
-            "caption":"Escola estadual Rui Barbosa",
+            "description":"Sensibilização",
+            "caption":"Escola Estadual Rui Barbosa",
             "image":false,
             "height":"275",
             "width":"193"
@@ -689,9 +689,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=50885",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Sensibilização - Visita Técnica",
             "caption":"Colégio Modelo Luís Eduardo Magalhães",
             "image":false,
             "height":"275",
@@ -708,9 +708,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=49585",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Sensibilização - Saúde Ambiental",
             "caption":"Centro Territorial de Educação Profissional (CETEP)",
             "image":false,
             "height":"275",
@@ -727,9 +727,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=53706",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Hota - Visita Técnica - Sensibilização",
             "caption":"Escola Estadual Dona Guiomar Barreto Meira",
             "image":false,
             "height":"275",
@@ -746,9 +746,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=56465",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Visita Técnica - Coleta Seletiva - Saúde Ambiental",
             "caption":"Colégio Estadual Cecílio Mattos",
             "image":false,
             "height":"275",
@@ -765,9 +765,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=48677",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Visita Técnica - Saúde Ambiental - Compostagem",
             "caption":"Colégio Estadual da Polícia Militar",
             "image":false,
             "height":"275",
@@ -784,9 +784,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=52980",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Ambientalização - Reciclagem - Sensibilização",
             "caption":"Escola Estadual Hildete Lomanto",
             "image":false,
             "height":"275",
@@ -803,9 +803,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=45818",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Ambientalização",
             "caption":"Escola Estadual Pedro Raymundo Moreira Rego",
             "image":false,
             "height":"275",
@@ -822,9 +822,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=49478",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Educação Ambiental - Hota - Visita Técnica",
             "caption":"Escola Estadual Rotary Clube",
             "image":false,
             "height":"275",
@@ -841,9 +841,9 @@
         {
         "type":"Feature",
         "properties":{
-            "news":"https://escolaverde.org/site/?page_id=27",
+            "news":"https://escolaverde.org/site/?p=54109",
             "category":"escolasAtendidas",
-            "description":"",
+            "description":"Arborização - Coleta Seletiva",
             "caption":"Colégio Estadual Helena Celestino",
             "image":false,
             "height":"275",
