@@ -1,5 +1,5 @@
 {
-  "release": 1,
+  "release": 2,
   "type": "FeatureCollection",
   "features": [
         {
@@ -854,6 +854,24 @@
             "coordinates":[
                 -40.492604,
                 -9.438953
+            ]
+        },
+        {
+        "type":"Feature",
+        "properties":{
+            "news":"",
+            "category":"escolasNaoAtendidas",
+            "description":"",
+            "caption":"Colégio Municipal Helena Celestino",
+            "image":false,
+            "height":"275",
+            "width":"193"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[
+                -40.4877416,
+                -9.4172501
             ]
         }
      }
