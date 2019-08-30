@@ -855,24 +855,6 @@
                 -40.492604,
                 -9.438953
             ]
-        },
-        {
-        "type":"Feature",
-        "properties":{
-            "news":"",
-            "category":"escolasNaoAtendidas",
-            "description":"",
-            "caption":"Colégio Municipal Helena Celestino",
-            "image":false,
-            "height":"275",
-            "width":"193"
-        },
-        "geometry":{
-            "type":"Point",
-            "coordinates":[
-                -40.487741,
-                -9.417250
-            ]
         }
      }
   ]
