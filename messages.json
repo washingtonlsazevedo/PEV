@@ -1,7 +1,12 @@
 [
 	{
-		"msgid": 1,
-		"message": "Treinamento no Projeto Escola Verde!",
+		"msgid": 2,
+		"message": "Seja bem vindo.",
+		"position": false
+	},
+	{
+		"msgid": 3,
+		"message": "Reunião Projeto Escola Verde! Sábado 31/08, 08h-Campus Centro.",
 		"position": false
 	}
 ]
