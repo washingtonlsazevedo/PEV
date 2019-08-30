@@ -856,6 +856,25 @@
                 -9.438953
             ]
         }
+     },
+        {
+        "type":"Feature",
+        "properties":{
+            "news":"https://escolaverde.org/site/?p=54109",
+            "category":"escolasNaoAtendidas",
+            "description":"Arborização - Coleta Seletiva",
+            "caption":"Colégio Municipal Helena Celestino",
+            "image":false,
+            "height":"275",
+            "width":"193"
+        },
+        "geometry":{
+            "type":"Point",
+            "coordinates":[
+                -40.4877416,
+                -9.4172501
+            ]
+        }
      }
   ]
 }
